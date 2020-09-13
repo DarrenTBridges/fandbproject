@@ -1,0 +1,13 @@
+<html>
+    <head>
+        {% if title %}
+        <title>{{ title }} - F&B Project</title>
+        {% else %}
+        <title>Welcome to F&B Project</title>
+        {% endif %}
+    </head>
+    <body>
+        <h1>Hello!</h1>
+    </body>
+    {% block content %}{% endblock %}
+</html>
