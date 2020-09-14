@@ -1,0 +1,9 @@
+[
+  {
+    "id": 2,
+    "firstname": "Darren",
+    "lastname": "Bridges",
+    "email": "darren@databake.co",
+    "password_hash": "pbkdf2:sha256:150000$lgZ4C7aC$a1a715659f516981ac91fcf6d3b0faa48f81dd7f4df4c4df1ec8c3c24027113d"
+  }
+]
